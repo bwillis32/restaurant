@@ -1,0 +1,24 @@
+{
+  "name": "restaurant",
+  "version": "1.0.0",
+  "description": "restaurant site ",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",	  
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bwillis32/restaurant.git"
+  },
+  "author": "Bobby J. Willis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bwillis32/restaurant/issues"
+  },
+  "homepage": "https://github.com/bwillis32/restaurant#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.3"
+  }
+}
